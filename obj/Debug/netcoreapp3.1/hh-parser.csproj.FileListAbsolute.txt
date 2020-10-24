@@ -1,0 +1,13 @@
+/home/quant86/projects/Sharp_projects/hh-parser/bin/Debug/netcoreapp3.1/hh-parser
+/home/quant86/projects/Sharp_projects/hh-parser/bin/Debug/netcoreapp3.1/hh-parser.deps.json
+/home/quant86/projects/Sharp_projects/hh-parser/bin/Debug/netcoreapp3.1/hh-parser.runtimeconfig.json
+/home/quant86/projects/Sharp_projects/hh-parser/bin/Debug/netcoreapp3.1/hh-parser.runtimeconfig.dev.json
+/home/quant86/projects/Sharp_projects/hh-parser/bin/Debug/netcoreapp3.1/hh-parser.dll
+/home/quant86/projects/Sharp_projects/hh-parser/bin/Debug/netcoreapp3.1/hh-parser.pdb
+/home/quant86/projects/Sharp_projects/hh-parser/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/quant86/projects/Sharp_projects/hh-parser/obj/Debug/netcoreapp3.1/hh-parser.csprojAssemblyReference.cache
+/home/quant86/projects/Sharp_projects/hh-parser/obj/Debug/netcoreapp3.1/hh-parser.AssemblyInfoInputs.cache
+/home/quant86/projects/Sharp_projects/hh-parser/obj/Debug/netcoreapp3.1/hh-parser.AssemblyInfo.cs
+/home/quant86/projects/Sharp_projects/hh-parser/obj/Debug/netcoreapp3.1/hh-parser.csproj.CopyComplete
+/home/quant86/projects/Sharp_projects/hh-parser/obj/Debug/netcoreapp3.1/hh-parser.dll
+/home/quant86/projects/Sharp_projects/hh-parser/obj/Debug/netcoreapp3.1/hh-parser.pdb
